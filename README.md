@@ -26,6 +26,3 @@
 <a href="https://discord.com/users/327236967265861633"><img alt="Gmail" src="https://img.shields.io/badge/Discord-2f3236?style=flat&logo=discord&logoColor=blue" /></a> &nbsp;
 <a href="https://instagram.com/acarfx"><img src="https://img.shields.io/badge/@acarfx-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-### 🌟 Official Discord Account
-<a href="https://discord.com/users/327236967265861633" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/327236967265861633/"></a>
-
